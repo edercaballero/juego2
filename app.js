@@ -7,7 +7,6 @@ let intentos;
 let arrayNumeros=[];
 numMax=1000;
 iniciar();
-alert(numeroRandom);
 function intentoDeUsuario(){
     let numeroUsuario=parseInt(document.getElementById("entradaUsuario").value);
     if(numeroRandom==numeroUsuario){
