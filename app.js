@@ -17,7 +17,7 @@ function intentoDeUsuario(){
         ingresarTexto("p","El número es mayor");
     }   else {
         ingresarTexto("p","El número es menor");
-    }
+    } 
     clearNumber();
     intentos++;
 }
